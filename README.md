@@ -1,16 +1,14 @@
 ### Informatica ITI. G. Ferraris - Corso P
+Materiale dei corsi di Informatica del corso P del prof. Gentile Ivan
 
-<!--
-**prof-gentile-i/prof-gentile-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Informazioni sui corsi
 
-Here are some ideas to get you started:
+| Classe    | Esercizi |
+|--------   |----------|
+| Terza     | [inf3](https://github.com/prof-gentile-i/inf3) |
+| Quarta    | [inf3](https://github.com/prof-gentile-i/inf3) |
+| Quinta    | [inf3](https://github.com/prof-gentile-i/inf3) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Materiali
+
+:blue_book: [Materiali dei corsi](https://github.com/prof-gentile-i/materiali)
