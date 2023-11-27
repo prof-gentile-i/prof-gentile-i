@@ -6,7 +6,7 @@ Materiale dei corsi di Informatica del corso P del prof. Gentile Ivan
 | Classe    | Esercizi |
 |--------   |----------|
 | Terza     | [inf3](https://github.com/prof-gentile-i/inf3) |
-| Quarta    | [inf3](https://github.com/prof-gentile-i/inf3) |
+| Quarta    | [inf3](https://github.com/prof-gentile-i/inf4) |
 | Quinta    | [inf3](https://github.com/prof-gentile-i/inf3) |
 
 ## Materiali
