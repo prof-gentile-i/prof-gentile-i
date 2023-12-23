@@ -9,6 +9,9 @@ Materiale dei corsi di Informatica del corso P del prof. Gentile Ivan
 | Quarta    | [inf4](https://github.com/prof-gentile-i/inf4) |
 | Quinta    | [inf5](https://github.com/prof-gentile-i/inf5) |
 
+## Codici di Esempio
+### Informatica per la classe terza
+
 ## Materiali
 
 :blue_book: [Materiali dei corsi](https://github.com/prof-gentile-i/materiali)
