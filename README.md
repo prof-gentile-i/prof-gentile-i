@@ -9,7 +9,7 @@ Materiale dei corsi di Informatica del corso P del prof. Gentile Ivan
 | Quarta    | [inf4](https://github.com/prof-gentile-i/inf4) |
 | Quinta    | [inf5](https://github.com/prof-gentile-i/inf5) |
 
-## Codici di Esempio
+## :computer: Codici di Esempio
 ### Informatica per la classe terza
 
 - [Iterazione](https://github.com/prof-gentile-i/inf3/tree/23-24/Iterazione)
