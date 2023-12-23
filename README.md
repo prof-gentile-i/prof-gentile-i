@@ -12,6 +12,9 @@ Materiale dei corsi di Informatica del corso P del prof. Gentile Ivan
 ## Codici di Esempio
 ### Informatica per la classe terza
 
+Iterazione
+- [QuozienteResto](https://github.com/prof-gentile-i/inf3)  
+
 ## Materiali
 
 :blue_book: [Materiali dei corsi](https://github.com/prof-gentile-i/materiali)
