@@ -14,6 +14,8 @@ Materiale dei corsi di Informatica del corso P del prof. Gentile Ivan
 
 - [Iterazione](https://github.com/prof-gentile-i/inf3/tree/23-24/Iterazione)
 
+### Informatica per la classe quarta
+- [Iterazione](https://github.com/prof-gentile-i/inf4/tree/23-24/ClassiBase)
 ## :blue_book: Materiali
 
 [Materiali dei corsi](https://github.com/prof-gentile-i/materiali)
