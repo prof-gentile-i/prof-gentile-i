@@ -19,3 +19,9 @@ Materiale dei corsi di Informatica del corso P del prof. Gentile Ivan
 ## :blue_book: Materiali
 
 [Materiali dei corsi](https://github.com/prof-gentile-i/materiali)
+
+## :computer: Codici di Esempio
+### Informatica per la classe quinta
+
+- [php](https://github.com/prof-gentile-i/inf3/tree/23-24/php)
+
