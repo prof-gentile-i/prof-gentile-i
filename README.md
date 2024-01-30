@@ -17,7 +17,6 @@ Materiale dei corsi di Informatica del corso P del prof. Gentile Ivan
 ### Informatica per la classe quarta
 - [ClassiBase](https://github.com/prof-gentile-i/inf4/tree/23-24/ClassiBase)
 
-## :computer: Codici di Esempio
 ### Informatica per la classe quinta
 
 - [php](https://github.com/prof-gentile-i/inf3/tree/23-24/php)
