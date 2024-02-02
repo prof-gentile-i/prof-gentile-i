@@ -13,6 +13,8 @@ Materiale dei corsi di Informatica del corso P del prof. Gentile Ivan
 ### Informatica per la classe terza
 
 - [Iterazione](https://github.com/prof-gentile-i/inf3/tree/23-24/Iterazione)
+- [Caratteri](https://github.com/prof-gentile-i/inf3/tree/23-24/Caratteri)
+
 
 ### Informatica per la classe quarta
 - [ClassiBase](https://github.com/prof-gentile-i/inf4/tree/23-24/ClassiBase)
