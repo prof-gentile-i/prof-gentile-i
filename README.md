@@ -21,7 +21,7 @@ Materiale dei corsi di Informatica del corso P del prof. Gentile Ivan
 
 ### Informatica per la classe quinta
 
-- [php](https://github.com/prof-gentile-i/inf3/tree/23-24/php)
+- [php](https://github.com/prof-gentile-i/inf5/tree/23-24/php)
 
 
 ## :blue_book: Materiali
