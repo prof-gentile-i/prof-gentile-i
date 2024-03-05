@@ -7,7 +7,7 @@ Materiale dei corsi di Informatica del corso P del prof. Gentile Ivan
 |--------   |----------|
 | Terza     | [inf3](https://github.com/prof-gentile-i/inf3/tree/23-24) |
 | Quarta    | [inf4](https://github.com/prof-gentile-i/inf4/tree/23-24) |
-| Quinta    | [inf5](https://github.com/prof-gentile-i/inf5) |
+| Quinta    | [inf5](https://github.com/prof-gentile-i/inf5/tree/23-24) |
 
 ## :computer: Codici di Esempio
 ### Informatica per la classe terza
