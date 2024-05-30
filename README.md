@@ -19,7 +19,7 @@ Link diretto al corso della classe terza [inf3](https://github.com/prof-gentile-
 - [Array](https://github.com/prof-gentile-i/inf3/tree/23-24/Array)
 - [Sottoprogrammi](https://github.com/prof-gentile-i/inf3/tree/23-24/Sottoprogrammi/)
 
-:memo: Mentre per i materiali di terza [materiali di terza](https://github.com/prof-gentile-i/inf3/tree/23-24/Materiale) 
+:memo: Mentre qui ci sono i [materiali di terza](https://github.com/prof-gentile-i/inf3/tree/23-24/Materiale) 
 
 ### :four: Informatica per la classe quarta
 
@@ -29,7 +29,7 @@ Link diretto al corso della classe terza [inf4](https://github.com/prof-gentile-
 - [ClassiBase](https://github.com/prof-gentile-i/inf4/tree/23-24/ClassiBase)
 - [Ereditarietà](https://github.com/prof-gentile-i/inf4/tree/23-24/Ereditarieta)
 
-:memo: Mentre per i [materiali di quarta](https://github.com/prof-gentile-i/inf4/tree/23-24/Materiali)
+:memo: Mentre qui ci sono i  [materiali di quarta](https://github.com/prof-gentile-i/inf4/tree/23-24/Materiali)
 
 
 ### :five: Informatica per la classe quinta
