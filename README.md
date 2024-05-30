@@ -45,8 +45,13 @@ Link diretto al corso della classe quinta [inf5](https://github.com/prof-gentile
 :memo: Mentre qui ci sono i  [materiali di quinta](https://github.com/prof-gentile-i/inf5/tree/23-24/materiale)
 
 
-## :blue_book: Materiali
+## :blue_book: Corsi extrascolastici
+Materiale per corsi extrascolastici di Informatica del prof. Gentile Ivan
 
-[Materiali dei corsi](https://github.com/prof-gentile-i/materiali)
+### :video_game: Sviluppo di Videogame
+Creazione del videogame **Snake** in linguaggio C usando la libreria SDL
+[SDL in C](https://github.com/prof-gentile-i/extra)
+
+
 
 
