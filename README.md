@@ -20,7 +20,7 @@ Di seguito i link che ti portano alle categorie degli **esercizi di esempio**
 - [Array](https://github.com/prof-gentile-i/inf3/tree/23-24/Array)
 - [Sottoprogrammi](https://github.com/prof-gentile-i/inf3/tree/23-24/Sottoprogrammi/)
 
-Mentre per i materiali :memo: di terza [materiali di terza][https://github.com/prof-gentile-i/inf3/tree/23-24/Materiale) 
+Mentre per i materiali :memo: di terza [materiali di terza](ttps://github.com/prof-gentile-i/inf3/tree/23-24/Materiale) 
 
 ### :four: Informatica per la classe quarta
 - [ClassiBase](https://github.com/prof-gentile-i/inf4/tree/23-24/ClassiBase)
