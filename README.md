@@ -1,7 +1,7 @@
-### Informatica ITI. G. Ferraris - Corso P
+## Informatica ITI. G. Ferraris - Corso P
 Materiale dei corsi di Informatica del corso P del prof. Gentile Ivan
 
-## Informazioni sui corsi
+### Informazioni sui corsi
 
 | Classe    | Esercizi |
 |--------   |----------|
@@ -10,8 +10,11 @@ Materiale dei corsi di Informatica del corso P del prof. Gentile Ivan
 | Quinta    | [inf5](https://github.com/prof-gentile-i/inf5/tree/23-24) |
 
 ## :computer: Codici di Esempio
-### Informatica per la classe terza
+### Informatica per la classe terza 
 
+Link diretto al corso della classe terza [inf3](https://github.com/prof-gentile-i/inf3/tree/23-24) 
+
+Di seguito i link che ti portano alle categorie degli esercizi di esempio
 - [Iterazione](https://github.com/prof-gentile-i/inf3/tree/23-24/Iterazione)
 - [Caratteri](https://github.com/prof-gentile-i/inf3/tree/23-24/Caratteri)
 - [Array](https://github.com/prof-gentile-i/inf3/tree/23-24/Array)
