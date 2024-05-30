@@ -23,7 +23,7 @@ Link diretto al corso della classe terza [inf3](https://github.com/prof-gentile-
 
 ### :four: Informatica per la classe quarta
 
-Link diretto al corso della classe terza [inf4](https://github.com/prof-gentile-i/inf4/tree/23-24)
+Link diretto al corso della classe quarta [inf4](https://github.com/prof-gentile-i/inf4/tree/23-24)
 
 :computer: Di seguito i link che ti portano alle categorie degli **esercizi di esempio**
 - [ClassiBase](https://github.com/prof-gentile-i/inf4/tree/23-24/ClassiBase)
@@ -34,7 +34,15 @@ Link diretto al corso della classe terza [inf4](https://github.com/prof-gentile-
 
 ### :five: Informatica per la classe quinta
 
-- [php](https://github.com/prof-gentile-i/inf5/tree/23-24/php)
+Link diretto al corso della classe quinta [inf5](https://github.com/prof-gentile-i/inf5/tree/23-24)
+
+:computer: Di seguito i link che ti portano alle categorie degli **esercizi di esempio**
+* php:
+  - [php](https://github.com/prof-gentile-i/inf5/tree/23-24/php)
+* progetti completi:
+  - [calcio](https://github.com/prof-gentile-i/inf5/tree/23-24/progetti_completi/calcio)
+
+:memo: Mentre qui ci sono i  [materiali di quinta](https://github.com/prof-gentile-i/inf5/tree/23-24/materiale)
 
 
 ## :blue_book: Materiali
