@@ -1,13 +1,13 @@
 ## Informatica ITI. G. Ferraris - Corso P
 Materiale dei corsi di Informatica del corso P del prof. Gentile Ivan
 
-### Informazioni sui corsi
+### :information_desk_person: Informazioni sui corsi
 
 | Classe    | Esercizi |
 |--------   |----------|
-| Terza     | [inf3](https://github.com/prof-gentile-i/inf3/tree/23-24) |
-| Quarta    | [inf4](https://github.com/prof-gentile-i/inf4/tree/23-24) |
-| Quinta    | [inf5](https://github.com/prof-gentile-i/inf5/tree/23-24) |
+| Terza     | Programmazione di basse (imperativa e procedurale) |
+| Quarta    | Programmazione ad oggetti |
+| Quinta    | Database e Programmazione Web  |
 
 ### :three: Informatica per la classe terza 
 
