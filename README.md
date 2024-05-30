@@ -18,6 +18,7 @@ Di seguito i link che ti portano alle categorie degli esercizi di esempio
 - [Iterazione](https://github.com/prof-gentile-i/inf3/tree/23-24/Iterazione)
 - [Caratteri](https://github.com/prof-gentile-i/inf3/tree/23-24/Caratteri)
 - [Array](https://github.com/prof-gentile-i/inf3/tree/23-24/Array)
+- [Sottoprogrammi](https://github.com/prof-gentile-i/inf3/tree/23-24/Sottoprogrammi/)
 
 
 ### Informatica per la classe quarta
