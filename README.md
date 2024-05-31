@@ -49,7 +49,7 @@ Link diretto al corso della classe quinta [inf5](https://github.com/prof-gentile
 Materiale per corsi extrascolastici di Informatica del prof. Gentile Ivan
 
 ### :video_game: Sviluppo di Videogame
-* Gioco del **Tris** in [linguaggio C usando la console](https://github.com/prof-gentile-i/extra/tree/main/videogame/Tris)
+* Gioco del **Tris** in [linguaggio C usando la console](https://github.com/prof-gentile-i/extra/tree/main/videogame/tris)
 * Creazione del videogame **Snake** in [linguaggio C usando la libreria SDL](https://github.com/prof-gentile-i/extra/tree/main/videogame/sdl_C/Snake)
 
 
