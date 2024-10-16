@@ -5,13 +5,13 @@ Materiale dei corsi di Informatica del corso P del prof. Gentile Ivan
 
 | Classe    | Esercizi |
 |--------   |----------|
-| Terza     | Programmazione di basse (imperativa e procedurale) |
+| Terza     | Programmazione di base (imperativa e procedurale) |
 | Quarta    | Programmazione ad oggetti |
 | Quinta    | Database e Programmazione Web  |
 
 ### :three: Informatica per la classe terza 
 
-Link diretto al corso della classe terza [inf3](https://github.com/prof-gentile-i/inf3/tree/23-24) 
+Link diretto al corso della classe terza [inf3](https://github.com/prof-gentile-i/inf3/tree/main) 
 
 :computer: Di seguito i link che ti portano alle categorie degli **esercizi di esempio**
 - [Iterazione](https://github.com/prof-gentile-i/inf3/tree/23-24/Iterazione)
