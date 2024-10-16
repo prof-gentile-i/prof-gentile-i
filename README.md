@@ -14,12 +14,12 @@ Materiale dei corsi di Informatica del corso P del prof. Gentile Ivan
 Link diretto al corso della classe terza [inf3](https://github.com/prof-gentile-i/inf3/tree/main) 
 
 :computer: Di seguito i link che ti portano alle categorie degli **esercizi di esempio**
-- [Iterazione](https://github.com/prof-gentile-i/inf3/tree/23-24/Iterazione)
-- [Caratteri](https://github.com/prof-gentile-i/inf3/tree/23-24/Caratteri)
-- [Array](https://github.com/prof-gentile-i/inf3/tree/23-24/Array)
-- [Sottoprogrammi](https://github.com/prof-gentile-i/inf3/tree/23-24/Sottoprogrammi/)
+- [Iterazione](https://github.com/prof-gentile-i/inf3/tree/main/Iterazione)
+- [Caratteri](https://github.com/prof-gentile-i/inf3/tree/main/Caratteri)
+- [Array](https://github.com/prof-gentile-i/inf3/tree/main/Array)
+- [Sottoprogrammi](https://github.com/prof-gentile-i/inf3/tree/main/Sottoprogrammi/)
 
-:memo: Mentre qui ci sono i [materiali di terza](https://github.com/prof-gentile-i/inf3/tree/23-24/Materiale) 
+:memo: Mentre qui ci sono i [materiali di terza](https://github.com/prof-gentile-i/inf3/tree/main/Materiale) 
 
 ### :four: Informatica per la classe quarta
 
