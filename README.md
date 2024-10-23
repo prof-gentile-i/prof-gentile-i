@@ -23,13 +23,13 @@ Link diretto al corso della classe terza [inf3](https://github.com/prof-gentile-
 
 ### :four: Informatica per la classe quarta
 
-Link diretto al corso della classe quarta [inf4](https://github.com/prof-gentile-i/inf4/tree/23-24)
+Link diretto al corso della classe quarta [inf4](https://github.com/prof-gentile-i/inf4/tree/main)
 
 :computer: Di seguito i link che ti portano alle categorie degli **esercizi di esempio**
-- [ClassiBase](https://github.com/prof-gentile-i/inf4/tree/23-24/ClassiBase)
-- [Ereditarietà](https://github.com/prof-gentile-i/inf4/tree/23-24/Ereditarieta)
+- [ClassiBase](https://github.com/prof-gentile-i/inf4/tree/main/ClassiBase)
+- [Ereditarietà](https://github.com/prof-gentile-i/inf4/tree/mina/Ereditarieta)
 
-:memo: Mentre qui ci sono i  [materiali di quarta](https://github.com/prof-gentile-i/inf4/tree/23-24/Materiali)
+:memo: Mentre qui ci sono i  [materiali di quarta](https://github.com/prof-gentile-i/inf4/tree/main/Materiali)
 
 
 ### :five: Informatica per la classe quinta
