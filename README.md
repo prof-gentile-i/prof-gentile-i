@@ -34,15 +34,15 @@ Link diretto al corso della classe quarta [inf4](https://github.com/prof-gentile
 
 ### :five: Informatica per la classe quinta
 
-Link diretto al corso della classe quinta [inf5](https://github.com/prof-gentile-i/inf5/tree/23-24)
+Link diretto al corso della classe quinta [inf5](https://github.com/prof-gentile-i/inf5/tree/main)
 
 :computer: Di seguito i link che ti portano alle categorie degli **esercizi di esempio**
 * php:
-  - [php](https://github.com/prof-gentile-i/inf5/tree/23-24/php)
+  - [php](https://github.com/prof-gentile-i/inf5/tree/main/php)
 * progetti completi:
-  - [calcio](https://github.com/prof-gentile-i/inf5/tree/23-24/progetti_completi/calcio)
+  - [calcio](https://github.com/prof-gentile-i/inf5/tree/main/progetti_completi/calcio)
 
-:memo: Mentre qui ci sono i  [materiali di quinta](https://github.com/prof-gentile-i/inf5/tree/23-24/materiale)
+:memo: Mentre qui ci sono i  [materiali di quinta](https://github.com/prof-gentile-i/inf5/tree/main/materiale)
 
 
 ## :blue_book: Corsi extrascolastici
