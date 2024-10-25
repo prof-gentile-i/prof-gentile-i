@@ -38,7 +38,7 @@ Link diretto al corso della classe quinta [inf5](https://github.com/prof-gentile
 
 :computer: Di seguito i link che ti portano alle categorie degli **esercizi di esempio**
 * HTML e CSS:
-  - [php](https://github.com/prof-gentile-i/inf5/tree/main/html_e_css)
+  - [HTML e CSS](https://github.com/prof-gentile-i/inf5/tree/main/Html%20e%20CSS/)
 * php:
   - [php](https://github.com/prof-gentile-i/inf5/tree/main/php)
 * progetti completi:
