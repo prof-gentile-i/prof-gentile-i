@@ -41,6 +41,7 @@ Link diretto al corso della classe quinta [inf5](https://github.com/prof-gentile
   - [HTML e CSS](https://github.com/prof-gentile-i/inf5/tree/main/Html%20e%20CSS/)
 * Diagrammi ER
   - [Campionato di Calcio](https://github.com/prof-gentile-i/inf5/blob/main/Diagrammi%20ER/CampionatoCalcio.pdf)
+  - [Film](https://github.com/prof-gentile-i/inf5/blob/main/Diagrammi%20ER/esercizi/Film.md)
 * php:
   - [php](https://github.com/prof-gentile-i/inf5/tree/main/php)
 * progetti completi:
