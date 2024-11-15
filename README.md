@@ -42,6 +42,7 @@ Link diretto al corso della classe quinta [inf5](https://github.com/prof-gentile
 * Diagrammi ER
   - [Campionato di Calcio](https://github.com/prof-gentile-i/inf5/blob/main/Diagrammi%20ER/CampionatoCalcio.pdf)
   - [Film](https://github.com/prof-gentile-i/inf5/blob/main/Diagrammi%20ER/esercizi/Film.md)
+  - [Officina](https://github.com/prof-gentile-i/inf5/blob/main/Diagrammi%20ER/esercizi/Officina.md)
 * php:
   - [php](https://github.com/prof-gentile-i/inf5/tree/main/php)
 * progetti completi:
