@@ -47,8 +47,6 @@ Link diretto al corso della classe quinta [inf5](https://github.com/prof-gentile
   - [php](https://github.com/prof-gentile-i/inf5/tree/main/php)
 * progetti completi:
   - [calcio](https://github.com/prof-gentile-i/inf5/tree/main/progetti_completi/calcio)
-* progetti completi:
-  - [Diagrammi ER](https://github.com/prof-gentile-i/inf5/tree/main/Diagrammi%20ER/esercizi)
 
 :memo: Mentre qui ci sono i  [materiali di quinta](https://github.com/prof-gentile-i/inf5/tree/main/materiale)
 
