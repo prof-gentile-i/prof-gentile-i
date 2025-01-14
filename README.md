@@ -28,6 +28,7 @@ Link diretto al corso della classe quarta [inf4](https://github.com/prof-gentile
 :computer: Di seguito i link che ti portano alle categorie degli **esercizi di esempio**
 - [ClassiBase](https://github.com/prof-gentile-i/inf4/tree/main/ClassiBase)
 - [Ereditarietà](https://github.com/prof-gentile-i/inf4/tree/mina/Ereditarieta)
+- [Raggruppati](https://github.com/prof-gentile-i/informatica)
 
 :memo: Mentre qui ci sono i  [materiali di quarta](https://github.com/prof-gentile-i/inf4/tree/main/Materiali)
 
