@@ -59,6 +59,8 @@ Materiale per corsi extrascolastici di Informatica del prof. Gentile Ivan
 ### 📜 Coding
 [Materiale per coding di base](https://github.com/prof-gentile-i/extra/tree/main/coding)
 
+[Disposizione Alunni](https://github.com/prof-gentile-i/extra/tree/main/disposizione_alunni)
+
 ### :video_game: Sviluppo di Videogame
 * Gioco del **Tris** in [linguaggio C++ usando la console](https://github.com/prof-gentile-i/extra/tree/main/videogame/tris)
 * Creazione del videogame **Snake** in [linguaggio C usando la libreria SDL](https://github.com/prof-gentile-i/extra/tree/main/videogame/sdl_C/Snake)
