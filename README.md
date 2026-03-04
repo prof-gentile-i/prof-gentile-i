@@ -47,6 +47,7 @@ Link diretto al corso della classe quinta [inf5](https://github.com/prof-gentile
 * php:
   - [php](https://github.com/prof-gentile-i/inf5/tree/main/php)
 * progetti completi:
+  -  [Databse di esempio di W3School](https://github.com/prof-gentile-i/inf5/tree/main/progetti_completi/W3Schools-Orders)
   -  [Kit Didattici](https://github.com/prof-gentile-i/inf5/tree/main/progetti_completi/Kit%20Didattici)
   -  [calcio](https://github.com/prof-gentile-i/inf5/tree/main/progetti_completi/calcio)
 
